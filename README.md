@@ -16,4 +16,7 @@ https://polkadot-public-sidecar.parity-chains.parity.io/
 - run command `npm start`
 
 ### Screenshot from `npm start` command
-![Screenshot from Simple CLI initial banner and menu](images/simple-cli.png "Screenshot from when you run the Simple CLI, showing the banner and the menu")
+![Screenshot from Simple CLI initial banner and menu](media/simple-cli.png "Screenshot from when you run the Simple CLI, showing the banner and the menu")
+
+### Short Gif / Walkthrough Menu Options
+![Recording](media/simple-cli-recording.gif "Short recording from when you run the Simple CLI, showing the different menu options and the corresponding outputs")
