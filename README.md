@@ -15,6 +15,12 @@ https://polkadot-public-sidecar.parity-chains.parity.io/
     - `npm install nodemon ts-node inquirer rimraf figlet axios`
 - run command `npm start`
 
+### Maintenance
+Update dependencies
+```
+yarn upgrade-interactive
+```
+
 ### Screenshot from `npm start` command
 ![Screenshot from Simple CLI initial banner and menu](media/simple-cli.png "Screenshot from when you run the Simple CLI, showing the banner and the menu")
 

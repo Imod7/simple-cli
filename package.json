@@ -6,22 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rimraf ./build && tsc",
-    "start": "npm run build && node build/index.js"
+    "start": "yarn run build && node build/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.22",
     "rimraf": "^3.0.2",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.9.2",
     "typescript": "^4.5.4"
   },
   "dependencies": {
     "@polkadot/api": "^7.4.1",
     "axios": "^0.25.0",
     "chalk": "^5.0.0",
-    "figlet": "^1.5.2",
-    "inquirer": "^8.2.0"
+    "figlet": "^1.7.0",
+    "inquirer": "^8.2.6"
   }
 }
